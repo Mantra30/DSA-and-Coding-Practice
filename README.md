@@ -13,5 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Mantra30/DSA-and-Coding-Practice/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Mantra30/DSA-and-Coding-Practice/tree/master/2235-add-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mantra30/DSA-and-Coding-Practice/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mantra30/DSA-and-Coding-Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mantra30/DSA-and-Coding-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
